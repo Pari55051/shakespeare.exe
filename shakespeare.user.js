@@ -4,10 +4,36 @@
 // @version      1.0
 // @description  Replaces modern words/phrases with Shakespearean language on dynamic websites like Medium.com
 // @author       You
-// @match        https://*.medium.com/*
-// @match        https://medium.com/*
-// @match        https://*.wikipedia.org/*
-// @match        https://*.reddit.com/*
+
+// Works on the following sites
+// Blogs & Articles
+// @match        *://medium.com/*
+// @match        *://*.substack.com/*
+// @match        *://*.wordpress.com/*
+// @match        *://*.blogspot.com/*
+// @match        *://dev.to/*
+
+// News Sites
+// @match        *://*.bbc.com/*
+// @match        *://*.nytimes.com/*
+// @match        *://*.theguardian.com/*
+// @match        *://*.cnn.com/*
+
+// Forums & Communities
+// @match        *://reddit.com/*
+// @match        *://*.reddit.com/*
+// @match        *://news.ycombinator.com/*
+
+// Social-ish Platforms (for added chaos)
+// @match        *://twitter.com/*
+// @match        *://x.com/*
+// @match        *://facebook.com/*
+// @match        *://*.facebook.com/*
+
+// Documentation & Info
+// @match        *://*.wikipedia.org/*
+// @match        *://*.wiktionary.org/*
+
 // @grant        none
 // ==/UserScript==
 
