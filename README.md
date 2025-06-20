@@ -24,7 +24,7 @@ Perfect.
 
 1. Install [Violentmonkey](https://violentmonkey.github.io/) in your browser (works best in Chrome or Firefox).
 2. Visit the script page on [Greasy Fork](https://greasyfork.org/) to install the script:  
-   ➤ **[shakespeare.exe on Greasy Fork](....)**
+   ➤ **[shakespeare.exe on Greasy Fork](https://greasyfork.org/en/scripts/540238-shakespeare-exe)**
 3. Browse any website and enjoy thy newfound Shakespearean enlightenment.
 
 ---
