@@ -28,6 +28,12 @@ Perfect.
    ➤ **[shakespeare.exe on Greasy Fork](https://greasyfork.org/en/scripts/540238-shakespeare-exe)**
 3. Browse any website and enjoy thy newfound Shakespearean enlightenment.
 
+> NOTE:
+> - for use on chrome:
+> on chrome (violent monkey is not working for some reason, so I used tampermonkey to check), you need to turn on developer mode from "chrome://extensions" and enable user script in the extension setting (opened when you click on the tamper monkey extension) for it to > work. these are just google chromes checks, not extension issues
+> - for use in edge:
+> directly use it from violent monkey, no issues
+
 ---
 
 ## What does it do?
