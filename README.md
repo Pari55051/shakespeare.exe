@@ -14,11 +14,6 @@ Hast thou ever readeth a webpage and wonder'd:
 **Wonder no more.**  
 Presenting: **shakespeare.exe** — a userscript for [Violentmonkey](https://violentmonkey.github.io/) that automatically translates normal, modern English text into Shakespearean style.
 
-Witty? ✔️  
-Confusing? ✔️  
-Absolutely unnecessary? ✔️  
-Perfect.
-
 ---
 
 ## How to use
@@ -29,9 +24,9 @@ Perfect.
 3. Browse any website and enjoy thy newfound Shakespearean enlightenment.
 
 > NOTE:
-> - for use on chrome:
+> - for use on Google Chrome:
 > on chrome (violent monkey is not working for some reason, so I used tampermonkey to check), you need to turn on developer mode from "chrome://extensions" and enable user script in the extension setting (opened when you click on the tamper monkey extension) for it to > work. these are just google chromes checks, not extension issues
-> - for use in edge:
+> - for use in Microsoft Edge:
 > directly use it from violent monkey, no issues
 
 ---
@@ -42,7 +37,7 @@ The script walks through text nodes on any web page and replaces:
 
 - Common words (`you` → `thou`, `are` → `art`)
 - Modern phrases (`no way` → `fie! it cannot be!`)
-- Dynamic content too! (It watches for DOM changes and updates on-the-fly)
+
 
 Example transformations:
 
